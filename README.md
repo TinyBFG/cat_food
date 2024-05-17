@@ -1,6 +1,6 @@
 # CatFood
 
-**TODO: Add description**
+This is a practice project for TinyBFG and (insert username here) to work on our craft. It will be a basic front to back website. (Insert username here) will work on the front end and TinyBFG will work on the back end. The front end will be done using javascript and the backend will be done using elixir.
 
 ## Installation
 
